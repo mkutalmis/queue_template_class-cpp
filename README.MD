@@ -1,6 +1,6 @@
 # queue_template_class-cpp
 
-[!alt text](https://github.com/mkutalmis/queue_template_class-cpp/blob/master/console_output.png)
+[!alt text] (https://github.com/mkutalmis/queue_template_class-cpp/blob/master/console_output.png)
 
 
 Class Functions :
