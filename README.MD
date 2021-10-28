@@ -1,7 +1,7 @@
 # queue_template_class-cpp
 Queue Data Structure Template Class in C++
 
-![alt text] (https://github.com/mkutalmis/queue_template_class-cpp/blob/master/console_output.png)
+![alt text](https://github.com/mkutalmis/queue_template_class-cpp/blob/master/console_output.png)
 
 
 Class Functions :
